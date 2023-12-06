@@ -13,18 +13,18 @@ Historical stock data from Google, including opening/closing prices, highs/lows,
 Methodology
 
 Data Preprocessing:-
-.Load and explore the Google stock dataset.
-.Focus on 'Close' prices for LSTM training.
-.Scale data using MinMax scaling.
-.Create sequences of data for model input features (X) and target variable (y).
+1.Load and explore the Google stock dataset.
+2.Focus on 'Close' prices for LSTM training.
+3.Scale data using MinMax scaling.
+4.Create sequences of data for model input features (X) and target variable (y).
 
 LSTM Model Construction:-
 Utilize LSTM architecture, known for capturing long-term dependencies in sequential data. The model comprises two LSTM layers followed by Dense layers for predictions. Adam optimizer and mean squared error are used for training.
 
 Training and Evaluation:-
-.Split the dataset into training and testing sets.
-.Train the model on the training set to learn underlying patterns.
-.Evaluate model performance on the test set using metrics like Mean Squared Error (MSE).
+1.Split the dataset into training and testing sets.
+2.Train the model on the training set to learn underlying patterns.
+3.Evaluate model performance on the test set using metrics like Mean Squared Error (MSE).
 
 Predicting Future Stock Prices:-
 Use the trained model to predict Google stock prices for the next 30 days. Make predictions on a sequence of data corresponding to the next 30 days and visualize the results.
