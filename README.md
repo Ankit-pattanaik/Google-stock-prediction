@@ -1,4 +1,4 @@
-# Google-stock-prediction
+# Stock-Price-prediction
 Introduction
 Stock price prediction is a dynamic and challenging field within the realm of financial analysis that revolves around forecasting the future value of a company's stock based on historical data and various market indicators. This predictive analytics task is of paramount importance for investors, traders, and financial analysts, as it empowers them to make informed decisions, manage risks, and potentially capitalize on market opportunities.
 To understand this i have built a project for stock price prediction using LSTM model and i have used the google stock data for model training and testing.
