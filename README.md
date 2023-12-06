@@ -29,8 +29,11 @@ Utilize LSTM architecture, known for capturing long-term dependencies in sequent
 Training and Evaluation:-
 
 1.Split the dataset into training and testing sets.
+
 2.Train the model on the training set to learn underlying patterns.
+
 3.Evaluate model performance on the test set using metrics like Mean Squared Error (MSE).
+
 
 Predicting Future Stock Prices:-
 
