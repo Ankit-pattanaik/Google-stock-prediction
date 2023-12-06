@@ -15,8 +15,11 @@ Methodology
 Data Preprocessing:-
 
 1.Load and explore the Google stock dataset.
+
 2.Focus on 'Close' prices for LSTM training.
+
 3.Scale data using MinMax scaling.
+
 4.Create sequences of data for model input features (X) and target variable (y).
 
 LSTM Model Construction:-
