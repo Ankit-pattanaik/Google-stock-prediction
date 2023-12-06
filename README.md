@@ -33,7 +33,7 @@ Predicting Future Stock Prices:-
 
 Use the trained model to predict Google stock prices for the next 30 days. Make predictions on a sequence of data corresponding to the next 30 days and visualize the results.
 
-Conclusion
+Conclusion:-
 
 This project showcases the effectiveness of LSTM networks in predicting stock prices using Google stock as a case study. The integration of deep learning and financial data analysis provides a potent tool for understanding and forecasting market trends.
 
