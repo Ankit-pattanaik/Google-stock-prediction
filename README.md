@@ -13,6 +13,7 @@ Historical stock data from Google, including opening/closing prices, highs/lows,
 Methodology
 
 Data Preprocessing:-
+
 1.Load and explore the Google stock dataset.
 2.Focus on 'Close' prices for LSTM training.
 3.Scale data using MinMax scaling.
