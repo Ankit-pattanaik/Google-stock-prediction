@@ -22,9 +22,13 @@ Data Preprocessing:-
 
 4.Create sequences of data for model input features (X) and target variable (y).
 
+
+
 LSTM Model Construction:-
 
 Utilize LSTM architecture, known for capturing long-term dependencies in sequential data. The model comprises two LSTM layers followed by Dense layers for predictions. Adam optimizer and mean squared error are used for training.
+
+
 
 Training and Evaluation:-
 
@@ -35,9 +39,13 @@ Training and Evaluation:-
 3.Evaluate model performance on the test set using metrics like Mean Squared Error (MSE).
 
 
+
+
 Predicting Future Stock Prices:-
 
 Use the trained model to predict Google stock prices for the next 30 days. Make predictions on a sequence of data corresponding to the next 30 days and visualize the results.
+
+
 
 Conclusion:-
 
